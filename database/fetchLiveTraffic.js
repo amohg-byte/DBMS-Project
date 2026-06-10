@@ -11,7 +11,8 @@ const CITY_COORDS = {
     'Hyderabad': { lat: 17.3850, lon: 78.4867 },
     'Chennai': { lat: 13.0827, lon: 80.2707 },
     'Kolkata': { lat: 22.5726, lon: 88.3639 },
-    'Pune': { lat: 18.5204, lon: 73.8567 },
+    // Added Pune support
+    'Pune' : { lat: 18.5204, lon: 73.8567 }
     'Ahmedabad': { lat: 23.0225, lon: 72.5714 }
 };
 
