@@ -3,6 +3,7 @@
 -- Schema Definition (5 Normalized Tables in 3NF)
 -- ============================================================
 
+
 -- CREATE DATABASE IF NOT EXISTS smart_traffic;
 -- USE smart_traffic;
 
