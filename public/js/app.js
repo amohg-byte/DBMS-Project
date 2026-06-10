@@ -11,6 +11,7 @@ async function api(url) {
     const stopwatch = document.getElementById('perfStopwatch');
     if (stopwatch) stopwatch.style.opacity = '0.5';
 
+    
     const startTime = performance.now();
     const res = await fetch(url, {
         headers: { 'X-Ignore-Index': ignoreIndex ? 'true' : 'false' }
